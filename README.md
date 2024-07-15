@@ -4,4 +4,4 @@ Este projeto realiza a análise exploratória de dados (EDA) e modelagem para pr
 ## Instalação
 
 Clone o repositório e instale os pacotes necessários:
-pandas, numpy, scikit-learn, matplotlib, seaborn, joblib, wordcloud.
+pandas, numpy, scikit-learn, matplotlib, seaborn, joblib e wordcloud.
